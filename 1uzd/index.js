@@ -14,6 +14,3 @@ const getPhoto = async () => {
 };
 
 button.addEventListener("click", getPhoto);
-
-img.style.height = "200px";
-img.style.width = "200px";
